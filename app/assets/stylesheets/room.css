@@ -95,11 +95,13 @@ li {
 .chat-room-user__name {
   float: left;
 }
+
 .chat-room-user__btn {
   float: right;
   display: inline-block;
   cursor: pointer;
 }
+
 .chat-room-user__btn--add {
   color: #38aef0;
 }
